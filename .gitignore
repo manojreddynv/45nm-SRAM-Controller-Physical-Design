@@ -1,0 +1,25 @@
+# Cadence / Innovus generated files
+design/
+checkDesign/
+outputs/
+timingReports/
+
+# Innovus logs and generated reports
+*.log
+*.log*
+*.bin
+*.rpt
+*.rpt.old
+
+# Innovus command/history files
+innovus.cmd*
+innovus.log*
+pvsUI_ipvs.log
+
+# Generated placement reports
+reports/placement/
+
+# Tool configuration / generated files
+inputs/Default.globals
+inputs/Default.view
+streamOut.map
